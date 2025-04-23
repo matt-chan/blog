@@ -1,6 +1,6 @@
 baseURL = 'https://mattchan.me/'
 languageCode = 'en-us'
-title = 'Matt Chan'
+title = 'Community Notes'
 theme = 'hugo-bearblog'
 author = 'Matt Chan'
 
