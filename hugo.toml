@@ -1,0 +1,12 @@
+baseURL = 'https://mattchan.me/'
+languageCode = 'en-us'
+title = 'Curiosities'
+theme = 'hugo-bearblog'
+author = 'Matt Chan'
+
+# Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+[permalinks]
+  blog = "/:slug/"
+  tags = "/blog/:slug"
